@@ -29,6 +29,7 @@
 				"vmware.vscode-boot-dev-pack",
 				"vscjava.vscode-java-pack",
 				"vscjava.vscode-lombok",
+				"redhat.fabric8-analytics",
 				"redhat.vscode-xml"
 			]
 		}
